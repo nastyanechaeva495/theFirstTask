@@ -1,9 +1,17 @@
 # theFirstTask
 Your first task: create a new repository, create a README.ND file and upload another file.
-
 You can find a playlist of videos about git by [link] (https://www.youtube.com/watch?v=MB8B4Y9Io18)
-## Front_End Developer stack:
-
+## Front_end Developer stack:
 * HTML
 ﻿﻿* CSS
 * JavaScript
+
+def fibonacci(n):
+    if n <= 0:
+        return "Input should be a positive integer"
+    elif n == 1:
+        return 0
+    elif n == 2:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
