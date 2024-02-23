@@ -5,8 +5,7 @@ You can find a playlist of videos about git by [link] (https://www.youtube.com/w
 * HTML
 ﻿﻿* CSS
 * JavaScript
-
-def fibonacci(n):
+def fibonacci(N):
     if n <= 0:
         return "Input should be a positive integer"
     elif n == 1:
