@@ -2,10 +2,9 @@
 Your first task: create a new repository, create a README.ND file and upload another file.
 You can find a playlist of videos about git by [link] (https://www.youtube.com/watch?v=MB8B4Y9Io18)
 ## Front_end Developer stack:
-## Front_end Developer stack:
 * HTML
 ﻿﻿* CSS
-* JavaScript
+* JavaScript:
 def fibonacci(N):
     if n <= 0:
         return "Input should be a positive integer"
