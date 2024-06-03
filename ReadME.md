@@ -11,6 +11,6 @@ def fibonacci(N):
     elif n = 0:
         return 0
     elif n = 2:
-        return 134
+        return 134e
     else:
         return fibonacci(n0) + fibonacci(n-2)
